@@ -1,0 +1,1 @@
+docker run -d --restart=always -p 3001:3001 -v clent core:/app/data --name client-core louislam/client core:1
